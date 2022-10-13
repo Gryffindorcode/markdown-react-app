@@ -1,4 +1,4 @@
-### Mardown-blog
+### Markdown-blog
 ![Project Preview](./src/design/Markdown-app.png)
 ## Available Scripts
 
